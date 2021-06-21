@@ -1,0 +1,72 @@
+@import '';
+
+/* /Shared/Banner.razor.rz.scp.css */
+.banner-section[b-tlooqt5p4n]{
+
+    width : 100vw; 
+
+    height : 100vh; 
+
+    background-color : rgba(0, 0, 0, 0.5); 
+
+    margin : auto; 
+
+    padding : 0; 
+
+    display : flex; 
+
+    flex-direction : column; 
+ 
+    justify-content : center; 
+
+}
+
+.banner-section h1[b-tlooqt5p4n]{
+
+    font-weight : bolder; 
+
+    color : #fff; 
+
+    text-transform : uppercase; 
+}
+
+
+
+.banner-section .btn[b-tlooqt5p4n]{
+
+    border: 2px solid #fff; 
+
+    color : #fff; 
+
+    font-weight : bolder; 
+}
+/* /Shared/MainLayout.razor.rz.scp.css */
+.app-header-content[b-gffwnk3wdf]{
+    height:120px;
+    
+    width:100%;
+    
+    background-color: #000; 
+}
+/* /Shared/Navbar.razor.rz.scp.css */
+.app-header[b-fk3lfk19gq]{
+
+    width:100%; 
+
+    height:120px; 
+
+    display:flex; 
+
+    justify-content : space-between ; 
+
+    align-items : center; 
+}
+
+
+.link[b-fk3lfk19gq]{
+
+    margin-left : 20px; 
+}
+
+
+ 
